@@ -1,72 +1,86 @@
-FAK-DNS for AdGuard Home
-==================
+# FAK-DNS for AdGuard Home
 
-中国特定配置，改善您最喜爱的 DNS 服务器。
+<p align="center">
+  <img src="https://s2.loli.net/2024/01/04/N4QkHzlaSCIDbrt.jpg">
+</p>
 
-- 提高国内域名的解析速度。
+<p align="center">
+  <b>AdGuard Home 中国特定配置，使用您最喜爱的 DNS 服务器</b><br>
+  提高国内域名解析速度，全力避免 DNS 污染
+</p>
 
-- 尽可能获得您附近最好的 CDN 节点，但不要影响国外 CDN 的结果，这样您也可以同时为您的 VPN 获得最佳的 CDN 节点。
+<p align="center">
+  <a href="https://github.com/Leev1s/FAK-DNS/stargazers">
+    <img src="https://img.shields.io/github/stars/Leev1s/FAK-DNS?style=social" alt="Stars" />
+  </a>
+  <a href="https://github.com/Leev1s/FAK-DNS/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/Leev1s/FAK-DNS?color=blue" alt="MIT License"/>
+  </a>
+  <a href="https://github.com/Leev1s/FAK-DNS/actions">
+    <img src="https://github.com/Leev1s/FAK-DNS/actions/workflows/convert.yml/badge.svg" alt="GitHub Actions Status"/>
+  </a>
+  <img src="https://img.shields.io/github/last-commit/Leev1s/FAK-DNS" alt="Last Commit" />
+</p>
 
-文件截图如下
+## 📌 主要特点
 
-![](https://s2.loli.net/2024/01/04/N4QkHzlaSCIDbrt.jpg)
 
-Details
-=======
-主要的文件在`converted`文件夹下
+- 🧠 智能分流规则，**国内域名走中国 DNS，国外保持原样**
+- 🔄 自动同步上游规则，**集成 GitHub Actions 自动更新**
+- 📄 AdGuard Home 闪电⚡️导入
 
-- `FAK-DNS.txt`: 融合了下述三个文件。
 
-- `accelerated-domains.china.conf.txt`：要加速的一般域名。
+主要文件位于 [`converted`](./converted) 文件夹中：
 
-   使用中国 DNS 服务器时，这些域名具有更好的解析速度和/或结果。
+| 文件名 | 描述 |
+|--------|------|
+| `FAK-DNS.txt` | 综合优化后的主规则文件（推荐使用） |
+| `accelerated-domains.china.conf.txt` | 针对中国大陆优化的常用域名 |
+| `google.china.conf.txt` | Google 中国服务域名加速（实验性） |
+| `apple.china.conf.txt` | Apple 服务加速（遇到问题可选择性关闭） |
 
-   要确定域名是否符合条件，必须满足以下条件之一：
 
-  - 该域名的NS服务器位于中国大陆。
+## ⚙️ 使用说明
 
-  - 当使用中国 DNS 服务器时，域名将解析为位于中国大陆的 IP，但在使用外国 DNS 服务器时_并非总是如此（例如，在中国有节点的 CDN 加速站点）。 然而，这并不包括那些在中国大陆附近有节点的节点，例如日本、香港、台湾等。
+本项目基于 [felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list) 自动同步规则，并通过 GitHub Actions 转换为 AdGuard Home 支持的格式。
 
-   如果顶级域已在列表中，请不要添加子域。 这包括已与“/cn/”规则匹配的所有 .cn 域。
+- 默认设置：
+  - 国内请求走 **阿里 DoH**
+  - 国外请求走 **Cloudflare DoH**
+  - 自动合并 Google / Apple / 中国域名加速规则
 
-- `google.china.conf.txt`：要加速的 Google 域名。
+### 👉 **直接下载地址：**
 
-   使用中国 DNS 时，这些域名将解析为 Google 中国服务器。 在大多数情况下，这将为使用 Google 网络服务的网站带来更好的页面加载时间，例如 Google 网络字体和 AdSense。
+<https://raw.githubusercontent.com/Leev1s/FAK-DNS/master/converted/FAK-DNS.txt>
 
-   请记住，它们_不_被认为是稳定的。 **使用风险自负**。
+## 📥 配置 AdGuard Home
 
-- `apple.china.conf.txt`：要加速的 Apple 域名。
+1. 下载生成的 `FAK-DNS.txt` 文件
+2. 放入 AdGuard Home 目录（一般为 `/opt/AdGuardHome/`）
+3. 修改 `AdGuardHome.yaml`，添加以下配置：
 
-   一些 ISP（通常是较小的 ISP）在使用其中国大陆 CDN 服务器访问 Apple 的资产时遇到问题。 如果您遇到这种情况，请考虑删除此文件。 有关更多信息，请参阅#156。
-
-Usage
-=====
-
-根据[dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list)的规则写了一个github action，自动同步它的新文件并建立AdGuard Home DNS规则。可以通过设置github自定义上游DOH/DOT服务器，默认国内走阿里DOH，国外走Cloudflare DOH。默认合并了googlehost，applehost，和国内域名。
-
-![](https://s2.loli.net/2024/01/02/86f3HDuQMzScewI.jpg)
-
-直接能用👉<https://raw.githubusercontent.com/Leev1s/FAK-DNS/master/converted/FAK-DNS.txt>
-如果你想自定义就fork一下，然后改一下，CN_DNS填国内的，THE_DNS是国外的，两者都可以添加多个，注意换行，每行填写一个。
-文件下载下来之后，进入AdGuard Home的目录，一般在/opt/AdGuardHome，编辑AdGuardHome.yaml
-
-![](https://s2.loli.net/2024/01/02/NmDTxR46sCGtked.jpg)
-
-填写配置文件
-
-![](https://s2.loli.net/2024/01/02/eh1NsW3p7IlMVdj.jpg)
-
-重启AdGuardHome就可以了
-
-> # 如果你方便可以给我一个Star🌟吗
-> <https://github.com/Leev1s/FAK-DNS>
-
-License
-=======
-
+```yaml
+dns:
+  upstream_dns_file: /opt/AdGuardHome/FAK-DNS.txt
 ```
-Copyright © 2015 Felix Yan <felixonmars@archlinux.org>
-This work is free. You can redistribute it and/or modify it under the
-terms of the Do What The Fuck You Want To Public License, Version 2,
-as published by Sam Hocevar. See the LICENSE file for more details.
-```
+4. 重启 AdGuard Home
+
+## ✏️ 自定义配置
+
+1. Fork 本仓库
+2. 修改 Repository 中的 `CN_DNS` 与 `THE_DNS`，每行填写一个 DNS（DoH/DoT/QUIC/IP均可， `CN_DNS`填写您喜欢的国内DNS提供商，`THE_DNS`填写您信任的海外DNS提供商
+3. 通过 Github Actions，生成你专属的规则文件
+<p align="center">
+  <img src="https://s2.loli.net/2024/01/02/86f3HDuQMzScewI.jpg">
+</p>
+
+## 🧾 License
+This project contains code under multiple licenses.
+
+- Original code from [upstream repo](https://github.com/felixonmars/dnsmasq-china-list) is licensed under the [WTFPL](./LICENSE-WTFPL).
+- All modifications and additions by Lev1s are licensed under the MIT License. See [LICENSE](./LICENSE).
+
+## 🌟 Star 一下？
+如果你觉得这个项目对你有用，请给我一个小小的 Star
+
+👉 <https://github.com/Leev1s/FAK-DNS>
