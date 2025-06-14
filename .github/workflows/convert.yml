@@ -23,8 +23,8 @@ jobs:
 
     - name: Convert Conf Files
       env:
-        CN_DNS: ${{ secrets.CN_DNS }}
-        THE_DNS: ${{ secrets.THE_DNS }}
+        CN_DNS: ${{ vars.CN_DNS }}
+        THE_DNS: ${{ vars.THE_DNS }}
       run: python convert.py
 
     - name: Check for changes
