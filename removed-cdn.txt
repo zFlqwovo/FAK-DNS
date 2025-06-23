@@ -5,6 +5,7 @@ account.samsung.com
 achievements.xboxlive.com
 adfarm.mediaplex.com
 ad.mediaplex.com
+adminportal.cdnetworks.com
 ai.ytimg.com
 ajax.loli.net
 altfarm.mediaplex.com
@@ -70,6 +71,7 @@ cortexfx.bnpparibas.com
 createpoint.qti.qualcomm.com
 cs-analytics.htcsense.com
 c.s-microsoft.com
+deny-netfilter.uds-dev.lenovo.com
 distribution.qatp1.net
 distribution.qcpp1.net
 distribution.qpdp1.net
@@ -92,6 +94,7 @@ ec4.images-amazon.com
 ec8.images-amazon.com
 editorial.xboxlive.com
 eds.xboxlive.com
+egg.htcsense.com
 emdl.ws.microsoft.com
 emoi-cncdn.bing.com
 encoding.image-gmkt.com
@@ -107,6 +110,8 @@ gameplay.intel.com
 gateway.craft.moe
 gdssl.image-gmkt.com
 g-ec4.images-amazon.com
+geo-prism-cn.htcsense.com
+geo-prism.htcsense.com
 gfwsl.geforce.com
 gmskiosk-ssl.corp.google.com
 googleplex.com
@@ -119,6 +124,8 @@ gspe21.ls.apple.com
 gstatic.loli.net
 gs.ww.np.dl.playstation.net
 hdn.xnimg.cn.cdngc.net
+home-cn.htcsense.com
+home.htcsense.com
 images.apple.com
 images.apple.com.akadns.net
 images.benchmarkemail.com
@@ -161,6 +168,7 @@ mbsuat.download.prss.microsoft.com
 media.admob.com
 mediaexp-programming.xboxlive.com
 media.licdn.com
+metrics.deploy.akamai.com
 mini5cn-1.opera-mini.net
 mini5cn.opera-mini.net
 mktplassets-ssl.xbox.com
@@ -231,6 +239,7 @@ ssl.travelzoo.com
 ssl.tzoo-img.com
 staging-regioninfo-pa.googleapis.com
 start.htc.com
+start.htcsense.com
 static-exp1.licdn.com
 static.image-gmkt.com
 static.licdn.com
@@ -271,10 +280,12 @@ v2ex.com
 verdaccio.cnno1.uds-qa.lenovo.com
 vext.corp.google.com
 visualstudio.download.prss.microsoft.com
+waf.cdnetworks.com
 web-service.halo.xbox.com
 web-service-ssl.halo.xbox.com
 webview.unityads.unity3d.com
 wl.dlservice.microsoft.com
+wmota.htcsense.com
 www-05.ibm.com
 www1-cdn.dell.com
 www8.hp.com

@@ -5,6 +5,7 @@ require 'concurrent'
 require 'ipaddr'
 require 'public_suffix'
 require 'resolv'
+require 'set'
 
 class ChinaListVerify
     def initialize(
@@ -39,13 +40,10 @@ class ChinaListVerify
             raise "chnroutes not loaded"
         end
 
-        answers = nil
-        if response != nil && !response.empty?
-            answers = response.filter_map { |n, r| r if n.to_s == domain && r.class == Resolv::DNS::Resource::IN::A }
-        end
+        answers = resolve(domain, 'A')
 
-        if answers == nil || answers.empty?
-            answers = resolve(domain, 'A')
+        if response != nil && !response.empty?
+            answers += response.filter_map { |n, r| r if n.to_s == domain && r.class == Resolv::DNS::Resource::IN::A }
         end
 
         answers.each do |answer|
@@ -70,23 +68,31 @@ class ChinaListVerify
             server = [server] unless server.is_a? Array
             resolver = Resolv::DNS.new(nameserver: server)
         end
-        if !with_glue
-            resolver.getresources(domain, rdtype)
-        else
-            # Workaround for https://github.com/ruby/resolv/issues/27
-            result = []
-            glue = []
-            n0 = Resolv::DNS::Name.create domain
-            resolver.fetch_resource(domain, rdtype) {|reply, reply_name|
-                reply.each_resource {|n, ttl, data|
-                    if n0 == n && data.is_a?(rdtype)
-                        result << data
-                    else
-                        glue << [n, data]
-                    end
+        begin
+            if !with_glue
+                return resolver.getresources(domain, rdtype)
+            else
+                # Workaround for https://github.com/ruby/resolv/issues/27
+                result = []
+                glue = []
+                n0 = Resolv::DNS::Name.create domain
+                resolver.fetch_resource(domain, rdtype) {|reply, reply_name|
+                    reply.each_resource {|n, ttl, data|
+                        if n0 == n && data.is_a?(rdtype)
+                            result << data
+                        else
+                            glue << [n, data]
+                        end
+                    }
                 }
-            }
-            return result, glue
+                return result, glue
+            end
+        rescue Exception => e
+            if !with_glue
+                return []
+            else
+                return [], []
+            end
         end
     end
 
@@ -121,7 +127,7 @@ class ChinaListVerify
     end
 
     def check_domain(domain, enable_cdnlist: true)
-        nameservers = []
+        nameservers = Set[]
         nxdomain = false
         begin
             tld_ns = get_ns_for_tld(PublicSuffix.parse(domain, ignore_private: true).tld)
@@ -148,6 +154,29 @@ class ChinaListVerify
                 end
             rescue NoMethodError => e
                 puts "Ignoring error: #{e}"
+            end
+        end
+
+        nameservers.clone.each do |nameserver|
+            response = self.resolve(
+                domain + ".",
+                'NS',
+                server: nameserver,
+            )
+            response.each do |rdata|
+                begin
+                    nameserver = rdata.name.to_s
+                    if PublicSuffix.valid?(nameserver, ignore_private: true)
+                        nameservers << nameserver
+                    end
+
+                    if result = check_whitelist(nameservers)
+                        yield true, "NS Whitelist #{result} matched for domain #{domain}" if block_given?
+                        return true
+                    end
+                rescue NoMethodError => e
+                    puts "Ignoring error: #{e}"
+                end
             end
         end
 
@@ -183,7 +212,7 @@ class ChinaListVerify
         end
 
         if !nameservers.empty?
-            yield false, "NS #{nameservers[0]} not verified for domain #{domain}" if block_given?
+            yield false, "NS (#{nameservers.join(", ")}) not verified for domain #{domain}" if block_given?
             return false
         else
             yield nil, "Failed to get correct name server for domain #{domain}" if block_given?
