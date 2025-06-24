@@ -1,5 +1,6 @@
 1.cms.s81c.com
 1.www.s81c.com
+2-01-5830-0005.cdx.cedexis.net
 account.cdnetworks.com
 account.samsung.com
 achievements.xboxlive.com
@@ -191,6 +192,7 @@ play.1ucrs.com
 plus.djicdn.com
 poseidon.dl.playstation.net
 prm.dji.com
+prm.lenovo.com
 profile.xboxlive.com
 qagpublic.qcpp1.net
 qagpublic.qpdp1.net
