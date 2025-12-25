@@ -1,0 +1,7 @@
+/.rsync-exclude
+/convert.py
+/converted/
+/.gitignore
+/LICENSE-WTFPL
+/LICENSE
+/README.md

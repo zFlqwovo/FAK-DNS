@@ -1,0 +1,32 @@
+name: export files in Github Actions manually
+
+on:
+  workflow_dispatch:
+
+jobs:
+  convert_conf_files:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+    
+    - name: Install dependencies
+      run: pip3 install glob2
+
+    - name: Convert Conf Files
+      env:
+        CN_DNS: ${{ vars.CN_DNS }}
+        THE_DNS: ${{ vars.THE_DNS }}
+      run: python convert.py
+
+    - name: Create Artifacts
+      uses: actions/upload-artifact@v4
+      with:
+        name: converted-files
+        path: converted

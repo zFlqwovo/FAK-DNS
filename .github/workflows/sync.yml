@@ -1,0 +1,53 @@
+name: Upstream Sync
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  snapshot_sync:
+    name: Sync Upstream
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout target repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Pull Upstream
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          UPSTREAM_REPO="https://github.com/felixonmars/dnsmasq-china-list.git"
+          UPSTREAM_BRANCH="master"
+
+          rm -rf /tmp/upstream
+          git clone --depth 1 --single-branch --branch "$UPSTREAM_BRANCH" "$UPSTREAM_REPO" /tmp/upstream
+
+          rsync -a --delete \
+            --exclude ".git/" \
+            --exclude ".github/" \
+            --exclude-from ".rsync-exclude" \
+            /tmp/upstream/ ./
+
+          git config user.name "${{ github.repository_owner }}"
+          git config user.email "${{ github.repository_owner }}@users.noreply.github.com"
+
+          git add -A
+
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+
+          git commit -m "Sync Upstream $(TZ=Asia/Shanghai date '+%F %T %z')"
+
+      - name: Push changes
+        run: |
+          git push
