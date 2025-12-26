@@ -1,5 +1,6 @@
 https://dn5.2719233.xyz/dns-query
 https://aq0afpzqnz.cloudflare-gateway.com/dns-query
+# https://146.112.41.2/dns-query
 [/0.zone/]quic://dns.alidns.com
 [/00.net/]quic://dns.alidns.com
 [/000.link/]quic://dns.alidns.com
