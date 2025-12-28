@@ -89,6 +89,7 @@ downloadcenter.samsung.com
 download.epicgames.com
 download.gfe.nvidia.com
 download.mcafee.com
+download.msi.com
 download.parallels.com
 download.qcpp1.net
 download.qpdp1.net
@@ -106,6 +107,7 @@ emoi-cncdn.bing.com
 encoding.image-gmkt.com
 epix-ssl.xbox.com
 epix.xbox.com
+event.msi.com
 events2.djicdn.com
 facility.lenovo.com
 fontfiles.googleadapis.com
@@ -173,6 +175,7 @@ lx2.cok.elex.com
 manage.c3edge.com
 marketplace-xb.xboxlive.com
 mbsuat.download.prss.microsoft.com
+mce.msi.com
 media.admob.com
 mediaexp-programming.xboxlive.com
 media.licdn.com
