@@ -7713,6 +7713,7 @@ https://aq0afpzqnz.cloudflare-gateway.com/dns-query
 [/88106.com/]quic://dns.alidns.com
 [/88116008.com/]quic://dns.alidns.com
 [/8811777.com/]quic://dns.alidns.com
+[/881812c.com/]quic://dns.alidns.com
 [/8821.com/]quic://dns.alidns.com
 [/8825.com/]quic://dns.alidns.com
 [/88303887.com/]quic://dns.alidns.com
@@ -8464,6 +8465,7 @@ https://aq0afpzqnz.cloudflare-gateway.com/dns-query
 [/962360.com/]quic://dns.alidns.com
 [/962518.com/]quic://dns.alidns.com
 [/962600.com/]quic://dns.alidns.com
+[/96262.com/]quic://dns.alidns.com
 [/96335.com/]quic://dns.alidns.com
 [/96355.com/]quic://dns.alidns.com
 [/96369.net/]quic://dns.alidns.com
@@ -35298,6 +35300,7 @@ https://aq0afpzqnz.cloudflare-gateway.com/dns-query
 [/fuca-china.com/]quic://dns.alidns.com
 [/fucantec.com/]quic://dns.alidns.com
 [/fuchaipower.com/]quic://dns.alidns.com
+[/fuchaoqun.com/]quic://dns.alidns.com
 [/fuchen33.com/]quic://dns.alidns.com
 [/fuchengshicai.com/]quic://dns.alidns.com
 [/fuchuangyu.com/]quic://dns.alidns.com
@@ -45656,6 +45659,7 @@ https://aq0afpzqnz.cloudflare-gateway.com/dns-query
 [/hlbe365.com/]quic://dns.alidns.com
 [/hlbeixiu.com/]quic://dns.alidns.com
 [/hlbeixiu.net/]quic://dns.alidns.com
+[/hlbf.net/]quic://dns.alidns.com
 [/hlblz.com/]quic://dns.alidns.com
 [/hlbn.cc/]quic://dns.alidns.com
 [/hlbryy.com/]quic://dns.alidns.com
@@ -66233,6 +66237,7 @@ https://aq0afpzqnz.cloudflare-gateway.com/dns-query
 [/miit-kjcg.com/]quic://dns.alidns.com
 [/mij.cc/]quic://dns.alidns.com
 [/mijewelries.com/]quic://dns.alidns.com
+[/miji8.com/]quic://dns.alidns.com
 [/mijia.tech/]quic://dns.alidns.com
 [/mijian360.com/]quic://dns.alidns.com
 [/mijiannet.com/]quic://dns.alidns.com
@@ -71022,6 +71027,7 @@ https://aq0afpzqnz.cloudflare-gateway.com/dns-query
 [/nuomili.com/]quic://dns.alidns.com
 [/nuomiphp.com/]quic://dns.alidns.com
 [/nuomisi.com/]quic://dns.alidns.com
+[/nuona.com/]quic://dns.alidns.com
 [/nuonuo.com/]quic://dns.alidns.com
 [/nuoshell.com/]quic://dns.alidns.com
 [/nuoshou2023.com/]quic://dns.alidns.com
@@ -81658,6 +81664,7 @@ https://aq0afpzqnz.cloudflare-gateway.com/dns-query
 [/shanhs.com/]quic://dns.alidns.com
 [/shanhu188.com/]quic://dns.alidns.com
 [/shanhu99.com/]quic://dns.alidns.com
+[/shanhuijiangtang.com/]quic://dns.alidns.com
 [/shanhuu.com/]quic://dns.alidns.com
 [/shanjianzhan.com/]quic://dns.alidns.com
 [/shanjinqh.com/]quic://dns.alidns.com
@@ -85808,6 +85815,7 @@ https://aq0afpzqnz.cloudflare-gateway.com/dns-query
 [/starcharge.com/]quic://dns.alidns.com
 [/stardata360.com/]quic://dns.alidns.com
 [/starde.net/]quic://dns.alidns.com
+[/stardict.net/]quic://dns.alidns.com
 [/stardict.org/]quic://dns.alidns.com
 [/stardoctor.com/]quic://dns.alidns.com
 [/stards.com/]quic://dns.alidns.com
@@ -96000,6 +96008,7 @@ https://aq0afpzqnz.cloudflare-gateway.com/dns-query
 [/wengbi.com/]quic://dns.alidns.com
 [/wengegroup.com/]quic://dns.alidns.com
 [/wengem.com/]quic://dns.alidns.com
+[/wengkui.com/]quic://dns.alidns.com
 [/wengmeiling.com/]quic://dns.alidns.com
 [/wenguang.com/]quic://dns.alidns.com
 [/wenguangta.com/]quic://dns.alidns.com
