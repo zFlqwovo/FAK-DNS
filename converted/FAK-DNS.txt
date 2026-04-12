@@ -32622,6 +32622,7 @@ https://146.112.41.2/dns-query
 [/dubairen.com/]quic://dns.alidns.com
 [/dubao123.com/]quic://dns.alidns.com
 [/dubbing.tech/]quic://dns.alidns.com
+[/dubbingx.com/]quic://dns.alidns.com
 [/dubbo.io/]quic://dns.alidns.com
 [/duble.live/]quic://dns.alidns.com
 [/dubola.com/]quic://dns.alidns.com
@@ -69216,6 +69217,7 @@ https://146.112.41.2/dns-query
 [/miaocode.com/]quic://dns.alidns.com
 [/miaodiyun.com/]quic://dns.alidns.com
 [/miaodongbar.com/]quic://dns.alidns.com
+[/miaodongshenghuo.com/]quic://dns.alidns.com
 [/miaogongzi.cc/]quic://dns.alidns.com
 [/miaogongzi.net/]quic://dns.alidns.com
 [/miaohuiyanyi.com/]quic://dns.alidns.com
@@ -80247,6 +80249,7 @@ https://146.112.41.2/dns-query
 [/quaspa.com/]quic://dns.alidns.com
 [/quazero.com/]quic://dns.alidns.com
 [/quba360.com/]quic://dns.alidns.com
+[/qubang.cc/]quic://dns.alidns.com
 [/qubaobei.com/]quic://dns.alidns.com
 [/qubiankeji.com/]quic://dns.alidns.com
 [/qucai.com/]quic://dns.alidns.com
@@ -95651,6 +95654,7 @@ https://146.112.41.2/dns-query
 [/tsg-online.net/]quic://dns.alidns.com
 [/tsggx.com/]quic://dns.alidns.com
 [/tsgks.com/]quic://dns.alidns.com
+[/tsgyun.com/]quic://dns.alidns.com
 [/tshaisen.com/]quic://dns.alidns.com
 [/tshe.com/]quic://dns.alidns.com
 [/tshe.me/]quic://dns.alidns.com
@@ -110740,6 +110744,7 @@ https://146.112.41.2/dns-query
 [/yooek.com/]quic://dns.alidns.com
 [/yoofh.com/]quic://dns.alidns.com
 [/yoogene.com/]quic://dns.alidns.com
+[/yoohe.net/]quic://dns.alidns.com
 [/yoohouse.com/]quic://dns.alidns.com
 [/yoojia.com/]quic://dns.alidns.com
 [/yoojing.com/]quic://dns.alidns.com
