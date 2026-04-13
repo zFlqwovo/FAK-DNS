@@ -2106,6 +2106,7 @@ https://146.112.41.2/dns-query
 [/122cha.com/]quic://dns.alidns.com
 [/122cn.net/]quic://dns.alidns.com
 [/122law.com/]quic://dns.alidns.com
+[/122w.net/]quic://dns.alidns.com
 [/123-789.com/]quic://dns.alidns.com
 [/123.cc/]quic://dns.alidns.com
 [/123.xn--vhquv/]quic://dns.alidns.com
@@ -4066,6 +4067,7 @@ https://146.112.41.2/dns-query
 [/2kb.com/]quic://dns.alidns.com
 [/2kfb.com/]quic://dns.alidns.com
 [/2kk.cc/]quic://dns.alidns.com
+[/2kka.com/]quic://dns.alidns.com
 [/2kno.com/]quic://dns.alidns.com
 [/2ktq.com/]quic://dns.alidns.com
 [/2kxs.info/]quic://dns.alidns.com
@@ -11092,6 +11094,7 @@ https://146.112.41.2/dns-query
 [/acgtubao.com/]quic://dns.alidns.com
 [/acgvideo.com/]quic://dns.alidns.com
 [/acgvr.com/]quic://dns.alidns.com
+[/acgwolf.com/]quic://dns.alidns.com
 [/acgzc.com/]quic://dns.alidns.com
 [/acgzyj.com/]quic://dns.alidns.com
 [/achiming.com/]quic://dns.alidns.com
@@ -12597,6 +12600,7 @@ https://146.112.41.2/dns-query
 [/alic.com/]quic://dns.alidns.com
 [/alicache.com/]quic://dns.alidns.com
 [/alicall.com/]quic://dns.alidns.com
+[/alicaptcha.com/]quic://dns.alidns.com
 [/alicdm.com/]quic://dns.alidns.com
 [/alicdn.com/]quic://dns.alidns.com
 [/alicloud.com/]quic://dns.alidns.com
@@ -12622,6 +12626,7 @@ https://146.112.41.2/dns-query
 [/aliexpress.us/]quic://dns.alidns.com
 [/alifabu.com/]quic://dns.alidns.com
 [/alifanyi.com/]quic://dns.alidns.com
+[/alifejk.com/]quic://dns.alidns.com
 [/alifenxiao.com/]quic://dns.alidns.com
 [/aligames.com/]quic://dns.alidns.com
 [/aligaofang.com/]quic://dns.alidns.com
@@ -18845,6 +18850,7 @@ https://146.112.41.2/dns-query
 [/boxilink.com/]quic://dns.alidns.com
 [/boxim.online/]quic://dns.alidns.com
 [/boxisign.com/]quic://dns.alidns.com
+[/boxmoe.com/]quic://dns.alidns.com
 [/boxuegu.com/]quic://dns.alidns.com
 [/boxueio.com/]quic://dns.alidns.com
 [/boxui.com/]quic://dns.alidns.com
@@ -19117,6 +19123,7 @@ https://146.112.41.2/dns-query
 [/bsyyjt.com/]quic://dns.alidns.com
 [/bsz666.com/]quic://dns.alidns.com
 [/bszhly.com/]quic://dns.alidns.com
+[/bszip.me/]quic://dns.alidns.com
 [/bszxtl.com/]quic://dns.alidns.com
 [/bszyqc.com/]quic://dns.alidns.com
 [/bt-club.com/]quic://dns.alidns.com
@@ -19137,6 +19144,7 @@ https://146.112.41.2/dns-query
 [/btccjt.com/]quic://dns.alidns.com
 [/btcha.com/]quic://dns.alidns.com
 [/btclass.net/]quic://dns.alidns.com
+[/btcqingbao.com/]quic://dns.alidns.com
 [/btcside.com/]quic://dns.alidns.com
 [/btcwatch.com/]quic://dns.alidns.com
 [/btcxue.com/]quic://dns.alidns.com
@@ -28321,6 +28329,7 @@ https://146.112.41.2/dns-query
 [/cuncwg.com/]quic://dns.alidns.com
 [/cunfang.com/]quic://dns.alidns.com
 [/cunhao.net/]quic://dns.alidns.com
+[/cunliangtech.com/]quic://dns.alidns.com
 [/cunnar.com/]quic://dns.alidns.com
 [/cunshao.com/]quic://dns.alidns.com
 [/cunylyu.work/]quic://dns.alidns.com
@@ -29114,6 +29123,7 @@ https://146.112.41.2/dns-query
 [/dailijizhang.cc/]quic://dns.alidns.com
 [/dailiweishang.com/]quic://dns.alidns.com
 [/dailugou.com/]quic://dns.alidns.com
+[/dailybing.com/]quic://dns.alidns.com
 [/dailygn.com/]quic://dns.alidns.com
 [/dailyqd.com/]quic://dns.alidns.com
 [/daimafans.com/]quic://dns.alidns.com
@@ -29660,6 +29670,7 @@ https://146.112.41.2/dns-query
 [/dayanzai.me/]quic://dns.alidns.com
 [/dayapress.com/]quic://dns.alidns.com
 [/dayayu.com/]quic://dns.alidns.com
+[/dayclover.com/]quic://dns.alidns.com
 [/daydao.com/]quic://dns.alidns.com
 [/dayday.plus/]quic://dns.alidns.com
 [/daydaymap.com/]quic://dns.alidns.com
@@ -31795,6 +31806,7 @@ https://146.112.41.2/dns-query
 [/doingv.com/]quic://dns.alidns.com
 [/doit.am/]quic://dns.alidns.com
 [/doitim.com/]quic://dns.alidns.com
+[/doitwiki.com/]quic://dns.alidns.com
 [/doiua.com/]quic://dns.alidns.com
 [/doki8.com/]quic://dns.alidns.com
 [/dolcn.com/]quic://dns.alidns.com
@@ -32101,6 +32113,7 @@ https://146.112.41.2/dns-query
 [/doudou.fun/]quic://dns.alidns.com
 [/doudou.in/]quic://dns.alidns.com
 [/doudou1217.com/]quic://dns.alidns.com
+[/doudou520.online/]quic://dns.alidns.com
 [/doudouad.com/]quic://dns.alidns.com
 [/doudoubird.com/]quic://dns.alidns.com
 [/doudouditu.com/]quic://dns.alidns.com
@@ -40197,6 +40210,7 @@ https://146.112.41.2/dns-query
 [/ggsq.cc/]quic://dns.alidns.com
 [/ggtime.com/]quic://dns.alidns.com
 [/ggtjx.com/]quic://dns.alidns.com
+[/ggtrj.com/]quic://dns.alidns.com
 [/ggttvc.com/]quic://dns.alidns.com
 [/ggwan.com/]quic://dns.alidns.com
 [/ggwan.net/]quic://dns.alidns.com
@@ -45202,6 +45216,7 @@ https://146.112.41.2/dns-query
 [/gzzwis.com/]quic://dns.alidns.com
 [/gzzx.cc/]quic://dns.alidns.com
 [/h-ceo.com/]quic://dns.alidns.com
+[/h-cled.com/]quic://dns.alidns.com
 [/h-college.com/]quic://dns.alidns.com
 [/h-diode.com/]quic://dns.alidns.com
 [/h-heguo.com/]quic://dns.alidns.com
@@ -46867,6 +46882,7 @@ https://146.112.41.2/dns-query
 [/hcbyq.com/]quic://dns.alidns.com
 [/hcc11.com/]quic://dns.alidns.com
 [/hcccia.com/]quic://dns.alidns.com
+[/hccenter.net/]quic://dns.alidns.com
 [/hcciot.com/]quic://dns.alidns.com
 [/hcclhealthcare.com/]quic://dns.alidns.com
 [/hccoeutg.com/]quic://dns.alidns.com
@@ -49731,6 +49747,7 @@ https://146.112.41.2/dns-query
 [/hpbgb.com/]quic://dns.alidns.com
 [/hpblog.net/]quic://dns.alidns.com
 [/hpc.cloud/]quic://dns.alidns.com
+[/hpcang.com/]quic://dns.alidns.com
 [/hpccake.com/]quic://dns.alidns.com
 [/hpccube.com/]quic://dns.alidns.com
 [/hpculturegroup.com/]quic://dns.alidns.com
@@ -52370,6 +52387,7 @@ https://146.112.41.2/dns-query
 [/hzwtech.com/]quic://dns.alidns.com
 [/hzwyx.net/]quic://dns.alidns.com
 [/hzx.center/]quic://dns.alidns.com
+[/hzx8188.com/]quic://dns.alidns.com
 [/hzxbcs.com/]quic://dns.alidns.com
 [/hzxddt.com/]quic://dns.alidns.com
 [/hzxded.com/]quic://dns.alidns.com
@@ -53294,6 +53312,7 @@ https://146.112.41.2/dns-query
 [/ifengcdn.com/]quic://dns.alidns.com
 [/ifengcu.com/]quic://dns.alidns.com
 [/ifenghui.com/]quic://dns.alidns.com
+[/ifengidc.com/]quic://dns.alidns.com
 [/ifengimg.com/]quic://dns.alidns.com
 [/ifengli.com/]quic://dns.alidns.com
 [/ifenglian.com/]quic://dns.alidns.com
@@ -75820,6 +75839,7 @@ https://146.112.41.2/dns-query
 [/paibaohy.com/]quic://dns.alidns.com
 [/paichen.net/]quic://dns.alidns.com
 [/paichi.com/]quic://dns.alidns.com
+[/paicoding.com/]quic://dns.alidns.com
 [/paidai.com/]quic://dns.alidns.com
 [/paidui.com/]quic://dns.alidns.com
 [/paiduidai.com/]quic://dns.alidns.com
@@ -76416,6 +76436,7 @@ https://146.112.41.2/dns-query
 [/peixiang.com/]quic://dns.alidns.com
 [/peixinbao.com/]quic://dns.alidns.com
 [/peixinkj.com/]quic://dns.alidns.com
+[/peixinyi.com/]quic://dns.alidns.com
 [/peixun.net/]quic://dns.alidns.com
 [/peixun360.com/]quic://dns.alidns.com
 [/peixun5.com/]quic://dns.alidns.com
@@ -78652,6 +78673,7 @@ https://146.112.41.2/dns-query
 [/qhfzcp.com/]quic://dns.alidns.com
 [/qhgas.com/]quic://dns.alidns.com
 [/qhgufen.com/]quic://dns.alidns.com
+[/qhgwh.com/]quic://dns.alidns.com
 [/qhholding.com/]quic://dns.alidns.com
 [/qhhxnw.com/]quic://dns.alidns.com
 [/qhimg.com/]quic://dns.alidns.com
@@ -79693,6 +79715,7 @@ https://146.112.41.2/dns-query
 [/qlivewebrtc.com/]quic://dns.alidns.com
 [/qlivewebrtc2.com/]quic://dns.alidns.com
 [/qll-times.com/]quic://dns.alidns.com
+[/qlmec.com/]quic://dns.alidns.com
 [/qlmf.com/]quic://dns.alidns.com
 [/qlmoney.com/]quic://dns.alidns.com
 [/qlnonwoven.com/]quic://dns.alidns.com
@@ -80715,6 +80738,7 @@ https://146.112.41.2/dns-query
 [/qwimm.com/]quic://dns.alidns.com
 [/qwing.com/]quic://dns.alidns.com
 [/qwmtjj360.vip/]quic://dns.alidns.com
+[/qwocs.com/]quic://dns.alidns.com
 [/qwpo2018.com/]quic://dns.alidns.com
 [/qwps.net/]quic://dns.alidns.com
 [/qwq.link/]quic://dns.alidns.com
@@ -81103,6 +81127,7 @@ https://146.112.41.2/dns-query
 [/rainhz.com/]quic://dns.alidns.com
 [/raink.org/]quic://dns.alidns.com
 [/rainlain.com/]quic://dns.alidns.com
+[/rainng.com/]quic://dns.alidns.com
 [/rainso.com/]quic://dns.alidns.com
 [/rainwe.com/]quic://dns.alidns.com
 [/rainyun.com/]quic://dns.alidns.com
@@ -81119,6 +81144,7 @@ https://146.112.41.2/dns-query
 [/rakinda-aidc.com/]quic://dns.alidns.com
 [/rakinda-xm.com/]quic://dns.alidns.com
 [/rakutabichina.com/]quic://dns.alidns.com
+[/rakvps.com/]quic://dns.alidns.com
 [/ramadaplaza-ovwh.com/]quic://dns.alidns.com
 [/ramboplay.com/]quic://dns.alidns.com
 [/ramostear.com/]quic://dns.alidns.com
@@ -81707,6 +81733,7 @@ https://146.112.41.2/dns-query
 [/revolut.ltd/]quic://dns.alidns.com
 [/revolutwebapp.com/]quic://dns.alidns.com
 [/rew65.com/]quic://dns.alidns.com
+[/rewanyouxi.com/]quic://dns.alidns.com
 [/rewnat.xyz/]quic://dns.alidns.com
 [/reworlder.com/]quic://dns.alidns.com
 [/rewuwang.com/]quic://dns.alidns.com
@@ -83994,6 +84021,7 @@ https://146.112.41.2/dns-query
 [/sdguanzhou.com/]quic://dns.alidns.com
 [/sdguguo.com/]quic://dns.alidns.com
 [/sdgw.com/]quic://dns.alidns.com
+[/sdgwlc.com/]quic://dns.alidns.com
 [/sdgwy.org/]quic://dns.alidns.com
 [/sdgxdb.com/]quic://dns.alidns.com
 [/sdgxzn.com/]quic://dns.alidns.com
@@ -86071,6 +86099,7 @@ https://146.112.41.2/dns-query
 [/shijiudao.com/]quic://dns.alidns.com
 [/shijiufang.com/]quic://dns.alidns.com
 [/shijqq.com/]quic://dns.alidns.com
+[/shijuan1.com/]quic://dns.alidns.com
 [/shijue.me/]quic://dns.alidns.com
 [/shijueju.com/]quic://dns.alidns.com
 [/shijuenian.com/]quic://dns.alidns.com
@@ -92425,6 +92454,7 @@ https://146.112.41.2/dns-query
 [/taohuazu.pw/]quic://dns.alidns.com
 [/taohui.pub/]quic://dns.alidns.com
 [/taohuren.com/]quic://dns.alidns.com
+[/taoic.com/]quic://dns.alidns.com
 [/taojiaju8090.com/]quic://dns.alidns.com
 [/taojianghu.com/]quic://dns.alidns.com
 [/taojiji.com/]quic://dns.alidns.com
@@ -105053,6 +105083,7 @@ https://146.112.41.2/dns-query
 [/ximmerse.com/]quic://dns.alidns.com
 [/ximogo.com/]quic://dns.alidns.com
 [/ximuw.com/]quic://dns.alidns.com
+[/xin-health.com/]quic://dns.alidns.com
 [/xin-manganese.com/]quic://dns.alidns.com
 [/xin-yao.com/]quic://dns.alidns.com
 [/xin.com/]quic://dns.alidns.com
@@ -105623,6 +105654,7 @@ https://146.112.41.2/dns-query
 [/xinyuehealth.com/]quic://dns.alidns.com
 [/xinyuejiaxiao.net/]quic://dns.alidns.com
 [/xinyueseo.com/]quic://dns.alidns.com
+[/xinyuevod.com/]quic://dns.alidns.com
 [/xinyuhole.com/]quic://dns.alidns.com
 [/xinyuhongyuan.com/]quic://dns.alidns.com
 [/xinyuncs.com/]quic://dns.alidns.com
@@ -109169,6 +109201,7 @@ https://146.112.41.2/dns-query
 [/yi958.com/]quic://dns.alidns.com
 [/yiai.me/]quic://dns.alidns.com
 [/yiaini.com/]quic://dns.alidns.com
+[/yiandrive.com/]quic://dns.alidns.com
 [/yianjiulao.com/]quic://dns.alidns.com
 [/yiapp.com/]quic://dns.alidns.com
 [/yibaijin.com/]quic://dns.alidns.com
@@ -111322,6 +111355,7 @@ https://146.112.41.2/dns-query
 [/yqmh.com/]quic://dns.alidns.com
 [/yqmls.com/]quic://dns.alidns.com
 [/yqms.net/]quic://dns.alidns.com
+[/yqmsn.com/]quic://dns.alidns.com
 [/yqn.com/]quic://dns.alidns.com
 [/yqphh.com/]quic://dns.alidns.com
 [/yqrc.com/]quic://dns.alidns.com
@@ -112794,6 +112828,7 @@ https://146.112.41.2/dns-query
 [/yy.com/]quic://dns.alidns.com
 [/yy11.com/]quic://dns.alidns.com
 [/yy138.com/]quic://dns.alidns.com
+[/yy1986.com/]quic://dns.alidns.com
 [/yy2169.com/]quic://dns.alidns.com
 [/yy2hd.com/]quic://dns.alidns.com
 [/yy365.com/]quic://dns.alidns.com
@@ -112925,6 +112960,7 @@ https://146.112.41.2/dns-query
 [/yyylll.com/]quic://dns.alidns.com
 [/yyymvp.com/]quic://dns.alidns.com
 [/yyyncp.com/]quic://dns.alidns.com
+[/yyyqkq.com/]quic://dns.alidns.com
 [/yyyqm.com/]quic://dns.alidns.com
 [/yyyxbl.com/]quic://dns.alidns.com
 [/yyyy.games/]quic://dns.alidns.com
