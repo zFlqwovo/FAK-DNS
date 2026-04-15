@@ -12075,6 +12075,7 @@ https://146.112.41.2/dns-query
 [/ailvxing.com/]quic://dns.alidns.com
 [/aim-ec.com/]quic://dns.alidns.com
 [/aimaker.space/]quic://dns.alidns.com
+[/aimap.com/]quic://dns.alidns.com
 [/aimatech.com/]quic://dns.alidns.com
 [/aimatrix.ai/]quic://dns.alidns.com
 [/aimcx.com/]quic://dns.alidns.com
@@ -17735,6 +17736,7 @@ https://146.112.41.2/dns-query
 [/bjfqy.com/]quic://dns.alidns.com
 [/bjfriendshiphotel.com/]quic://dns.alidns.com
 [/bjfsali.com/]quic://dns.alidns.com
+[/bjftfy.com/]quic://dns.alidns.com
 [/bjfzst.com/]quic://dns.alidns.com
 [/bjgas.com/]quic://dns.alidns.com
 [/bjgasgh.com/]quic://dns.alidns.com
@@ -21634,6 +21636,7 @@ https://146.112.41.2/dns-query
 [/cetgps.com/]quic://dns.alidns.com
 [/cethik.com/]quic://dns.alidns.com
 [/cetkmh.com/]quic://dns.alidns.com
+[/cetsteam.com/]quic://dns.alidns.com
 [/cetzig.com/]quic://dns.alidns.com
 [/ceultimate.com/]quic://dns.alidns.com
 [/ceve-market.org/]quic://dns.alidns.com
@@ -35307,6 +35310,7 @@ https://146.112.41.2/dns-query
 [/evpartner.com/]quic://dns.alidns.com
 [/evpowergroup.com/]quic://dns.alidns.com
 [/evtcn.com/]quic://dns.alidns.com
+[/evtrust.com/]quic://dns.alidns.com
 [/evyy.net/]quic://dns.alidns.com
 [/evzhidao.com/]quic://dns.alidns.com
 [/evznl.org/]quic://dns.alidns.com
@@ -37259,6 +37263,7 @@ https://146.112.41.2/dns-query
 [/fk100.com/]quic://dns.alidns.com
 [/fkask.net/]quic://dns.alidns.com
 [/fkblog.org/]quic://dns.alidns.com
+[/fkbuff.com/]quic://dns.alidns.com
 [/fkcaijing.com/]quic://dns.alidns.com
 [/fkdex.com/]quic://dns.alidns.com
 [/fkdmg.com/]quic://dns.alidns.com
@@ -48346,6 +48351,7 @@ https://146.112.41.2/dns-query
 [/hivictor.net/]quic://dns.alidns.com
 [/hiwafer.com/]quic://dns.alidns.com
 [/hiwaysemi.com/]quic://dns.alidns.com
+[/hiwayslaw.com/]quic://dns.alidns.com
 [/hiwbb.com/]quic://dns.alidns.com
 [/hiwechats.com/]quic://dns.alidns.com
 [/hiweixiu.com/]quic://dns.alidns.com
@@ -60067,6 +60073,7 @@ https://146.112.41.2/dns-query
 [/jxxdxy.com/]quic://dns.alidns.com
 [/jxxhdn.com/]quic://dns.alidns.com
 [/jxxhsd.com/]quic://dns.alidns.com
+[/jxxinzhe.com/]quic://dns.alidns.com
 [/jxxnyqc.com/]quic://dns.alidns.com
 [/jxxs.net/]quic://dns.alidns.com
 [/jxycqy.com/]quic://dns.alidns.com
@@ -93159,6 +93166,7 @@ https://146.112.41.2/dns-query
 [/tencentcloudclub.com/]quic://dns.alidns.com
 [/tencentcloudcore.com/]quic://dns.alidns.com
 [/tencentcloudcr.com/]quic://dns.alidns.com
+[/tencentcloudcs.com/]quic://dns.alidns.com
 [/tencentcloudga.com/]quic://dns.alidns.com
 [/tencentcloudga001.com/]quic://dns.alidns.com
 [/tencentcloudga001.net/]quic://dns.alidns.com
