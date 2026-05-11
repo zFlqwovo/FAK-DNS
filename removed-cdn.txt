@@ -23,7 +23,10 @@ asset-account.msi.com
 asset.msi.com
 assets.adobedtm.com
 assets-ssl.xbox.com
+assets.uxengine.net
 assets.volvocars.com
+asset-us-store.msi.com
+asset-vendor-event.msi.com
 avatarread-ssl.xboxlive.com
 avatarread.xboxlive.com
 avatar-ssl.xboxlive.com
@@ -53,6 +56,7 @@ click.dji.com
 client-download.steampowered.com
 clubhub.xboxlive.com
 clubweixin.samsung.com
+cms.csw.lenovo.com
 cms.ibm.com
 cms-live.pandora.net
 cn-api.samsungcloud.com
@@ -156,6 +160,7 @@ holoway.lenovo.com
 holowaytest.lenovo.com
 home-cn.htcsense.com
 home.htcsense.com
+icc.lenovo.com
 icloud.cdn-apple.com
 icloud-cdn.icloud.com.akadns.net
 images.apple.com
@@ -190,8 +195,11 @@ khmdb.google.com
 khm.googleapis.com
 khm.google.com
 l2-uberproxy.corp.google.com
+lcp.gtm.lenovo.com
 learn.microsoft.com
+lenbpreturns.lenovo.com
 lenovomobilesupport.lenovo.com
+le-reporting.lenovo.com
 lh3.appinn.net
 liveupdate01.asus.com
 liveupdate-cn.msi.com
@@ -218,6 +226,7 @@ monitoring.qpdp1.net
 msgr.dlservice.microsoft.com
 msgruser.dlservice.microsoft.com
 msg.xboxlive.com
+msproductuat.download.prss.microsoft.com
 myvsuat.download.prss.microsoft.com
 ngportal.cdnetworks.com
 nxeassets.xbox.com
@@ -230,6 +239,7 @@ orig-liveupdate.msi.com
 owner-api.teslamotors.com
 pancake.cdn-apple.com.akadns.net
 partner.globalsign.com
+pcsupport.lenovo.com
 phobos.apple.com
 platform.linkedin.com
 play.1ucrs.com
@@ -290,6 +300,7 @@ sim.lenovo.com
 sina.com.hk
 siportal.cdnetworks.com
 slupdate.dlservice.microsoft.com
+smartsupport.lenovo.com
 speedtest.xboxlive.com
 ssh-relay.corp.google.com
 sslredirect.corp.google.com
@@ -318,6 +329,7 @@ supportcenter.corp.google.com
 support.lenovo.com
 sup-ssh-relay2.corp.google.com
 sup-ssh-relay.corp.google.com
+swupdl.adobe.com
 tcl.com.ru
 techstop.corp.google.com
 test.bugs-qa.chromium.org
@@ -358,6 +370,7 @@ web-service-ssl.halo.xbox.com
 webview.unityads.unity3d.com
 wl.dlservice.microsoft.com
 wmota.htcsense.com
+wscont1.apps.microsoft.com
 www-05.ibm.com
 www1-cdn.dell.com
 www8.hp.com
@@ -372,6 +385,7 @@ www.ibm.com
 www.ikea.com
 www.intel.com
 www.kaspersky.com
+www.laecloud.com
 www.nvidia.com
 www.pandora.net
 www.parallels.com
@@ -380,6 +394,7 @@ www-ssl.intel.com
 www.sulwhasoo.com
 www.thinkpad.com
 www.travelzoo.com
+www.tutorabc.com
 www.tzoo-img.com
 xb.dlservice.microsoft.com
 x-dash-public.rec.mp.microsoft.com
