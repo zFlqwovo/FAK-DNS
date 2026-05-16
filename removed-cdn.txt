@@ -61,6 +61,7 @@ cms.ibm.com
 cms-live.pandora.net
 cn-api.samsungcloud.com
 cnappinstall.googleadapis.com
+cn-ccs-sdc.blurdev.com
 cn.coremetrics.com
 cn.debian.org
 cn.download.nvidia.com
@@ -182,6 +183,7 @@ img-cdn.mediaplex.com
 img.mediaplex.com
 international.download.nvidia.com
 international-gfe.download.nvidia.com
+international-gfe.nvidia.com
 kh.google.com
 khm0.googleapis.com
 khm0.google.com
@@ -385,6 +387,8 @@ www.htcsense.com
 www.htcvive.com
 www.ibm.com
 www.ikea.com
+wwwimages2.adobe.com
+wwwimages.adobe.com
 www.intel.com
 www.kaspersky.com
 www.laecloud.com
