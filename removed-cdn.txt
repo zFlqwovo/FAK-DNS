@@ -157,6 +157,7 @@ gsp4-cn.ls.apple.com.edgekey.net
 gspe21.ls.apple.com
 gstatic.loli.net
 gs.ww.np.dl.playstation.net
+hcs.globalsign.com
 hdn.xnimg.cn.cdngc.net
 holoway.lenovo.com
 holowaytest.lenovo.com
@@ -207,6 +208,8 @@ lh3.appinn.net
 liveupdate01.asus.com
 liveupdate-cn.msi.com
 liveupdate.msi.com
+lm-sa.csc.edu.cn.akadns99.net
+lm-studyinchina.csc.edu.cn.akadns99.net
 lm-www.csc.edu.cn.akadns99.net
 lnkd.licdn.com
 logger.corp.google.com
