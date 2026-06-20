@@ -103,6 +103,7 @@
 [/itunes-apple.com.akadns.net/]quic://dns.alidns.com
 [/itunes.apple.com/]quic://dns.alidns.com
 [/itunesconnect.apple.com/]quic://dns.alidns.com
+[/mensura.cdn-apple.com/]quic://dns.alidns.com
 [/mesu-cdn.apple.com.akadns.net/]quic://dns.alidns.com
 [/mesu-china.apple.com.akadns.net/]quic://dns.alidns.com
 [/mesu.apple.com/]quic://dns.alidns.com

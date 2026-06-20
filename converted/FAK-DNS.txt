@@ -218,6 +218,7 @@ https://146.112.41.2/dns-query
 [/itunes-apple.com.akadns.net/]quic://dns.alidns.com
 [/itunes.apple.com/]quic://dns.alidns.com
 [/itunesconnect.apple.com/]quic://dns.alidns.com
+[/mensura.cdn-apple.com/]quic://dns.alidns.com
 [/mesu-cdn.apple.com.akadns.net/]quic://dns.alidns.com
 [/mesu-china.apple.com.akadns.net/]quic://dns.alidns.com
 [/mesu.apple.com/]quic://dns.alidns.com
@@ -14168,6 +14169,7 @@ https://146.112.41.2/dns-query
 [/azuiblc.com/]quic://dns.alidns.com
 [/azure-wave.com/]quic://dns.alidns.com
 [/azure.cc/]quic://dns.alidns.com
+[/azureflame.cloud/]quic://dns.alidns.com
 [/azureflying.com/]quic://dns.alidns.com
 [/azuremigrate.download.prss.microsoft.com/]quic://dns.alidns.com
 [/azuremigratetest.download.prss.microsoft.com/]quic://dns.alidns.com
@@ -16756,6 +16758,7 @@ https://146.112.41.2/dns-query
 [/bjartmuseum.com/]quic://dns.alidns.com
 [/bjatv.com/]quic://dns.alidns.com
 [/bjbaidianfeng.com/]quic://dns.alidns.com
+[/bjbaifan.com/]quic://dns.alidns.com
 [/bjbalb.com/]quic://dns.alidns.com
 [/bjbaodao.net/]quic://dns.alidns.com
 [/bjbb.com/]quic://dns.alidns.com
@@ -19193,6 +19196,7 @@ https://146.112.41.2/dns-query
 [/cangfengzhe.com/]quic://dns.alidns.com
 [/canghaiip.com/]quic://dns.alidns.com
 [/canghaimachine.com/]quic://dns.alidns.com
+[/cangjggame.com/]quic://dns.alidns.com
 [/canglanghospital.com/]quic://dns.alidns.com
 [/cangmang.xyz/]quic://dns.alidns.com
 [/cangoonline.com/]quic://dns.alidns.com
@@ -20813,6 +20817,7 @@ https://146.112.41.2/dns-query
 [/chachengji.com/]quic://dns.alidns.com
 [/chacihai.com/]quic://dns.alidns.com
 [/chacuo.net/]quic://dns.alidns.com
+[/chadaodao.com/]quic://dns.alidns.com
 [/chadianhua.net/]quic://dns.alidns.com
 [/chadoc.com/]quic://dns.alidns.com
 [/chaej.com/]quic://dns.alidns.com
@@ -34725,6 +34730,7 @@ https://146.112.41.2/dns-query
 [/feiersmart.com/]quic://dns.alidns.com
 [/feifandesign.com/]quic://dns.alidns.com
 [/feifanindustry.com/]quic://dns.alidns.com
+[/feifanmi.com/]quic://dns.alidns.com
 [/feifantxt.com/]quic://dns.alidns.com
 [/feifantxt.net/]quic://dns.alidns.com
 [/feifdx.com/]quic://dns.alidns.com
@@ -75393,6 +75399,7 @@ https://146.112.41.2/dns-query
 [/qingnianlvxing.com/]quic://dns.alidns.com
 [/qingniantuzhai.com/]quic://dns.alidns.com
 [/qingnianwang.com/]quic://dns.alidns.com
+[/qingning88.com/]quic://dns.alidns.com
 [/qingpanduola.com/]quic://dns.alidns.com
 [/qingpin.vip/]quic://dns.alidns.com
 [/qingping.co/]quic://dns.alidns.com
@@ -92395,6 +92402,7 @@ https://146.112.41.2/dns-query
 [/uniow.com/]quic://dns.alidns.com
 [/unipack-tech.com/]quic://dns.alidns.com
 [/uniproud.com/]quic://dns.alidns.com
+[/unisapps.com/]quic://dns.alidns.com
 [/uniscope.com/]quic://dns.alidns.com
 [/unisdigital.com/]quic://dns.alidns.com
 [/unisedu.com/]quic://dns.alidns.com
