@@ -14179,6 +14179,7 @@ https://146.112.41.2/dns-query
 [/b-k-automation.com/]quic://dns.alidns.com
 [/b-raymedia.com/]quic://dns.alidns.com
 [/b.biz/]quic://dns.alidns.com
+[/b.c2r.ts.cdn.office.net/]quic://dns.alidns.com
 [/b01.net/]quic://dns.alidns.com
 [/b02f0d7f3745ba7c.com/]quic://dns.alidns.com
 [/b041e427810281.beer/]quic://dns.alidns.com
@@ -33936,6 +33937,7 @@ https://146.112.41.2/dns-query
 [/f-insight.com/]quic://dns.alidns.com
 [/f-stack.org/]quic://dns.alidns.com
 [/f.biz/]quic://dns.alidns.com
+[/f.c2r.ts.cdn.office.net/]quic://dns.alidns.com
 [/f.cx/]quic://dns.alidns.com
 [/f008.com/]quic://dns.alidns.com
 [/f015dfc4510292.beer/]quic://dns.alidns.com
@@ -81377,6 +81379,7 @@ https://146.112.41.2/dns-query
 [/sheketiandi.com/]quic://dns.alidns.com
 [/shekou.com/]quic://dns.alidns.com
 [/shelive.net/]quic://dns.alidns.com
+[/shell.cdn.office.net/]quic://dns.alidns.com
 [/shellpub.com/]quic://dns.alidns.com
 [/shellsec.com/]quic://dns.alidns.com
 [/shelter-china.com/]quic://dns.alidns.com
@@ -85197,6 +85200,7 @@ https://146.112.41.2/dns-query
 [/staticfile.org/]quic://dns.alidns.com
 [/statickksmg.com/]quic://dns.alidns.com
 [/statics.cc/]quic://dns.alidns.com
+[/statics.teams.cdn.office.net/]quic://dns.alidns.com
 [/staticsdd.com/]quic://dns.alidns.com
 [/staticsoe.com/]quic://dns.alidns.com
 [/staticsoem.com/]quic://dns.alidns.com
@@ -85910,6 +85914,7 @@ https://146.112.41.2/dns-query
 [/surely.cool/]quic://dns.alidns.com
 [/surerp.com/]quic://dns.alidns.com
 [/surface.download.prss.microsoft.com/]quic://dns.alidns.com
+[/surface.downloads.prss.microsoft.com/]quic://dns.alidns.com
 [/surfacetreatmentgroup.com/]quic://dns.alidns.com
 [/surfacetreatmenttechnology.com/]quic://dns.alidns.com
 [/surfcg.com/]quic://dns.alidns.com
