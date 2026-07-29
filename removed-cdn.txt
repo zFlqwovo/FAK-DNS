@@ -23,6 +23,7 @@ ask.amd.com
 asset-account.msi.com
 asset.msi.com
 assets.adobedtm.com
+assets.analog.com
 assets-ssl.xbox.com
 assets.uxengine.net
 assets.volvocars.com
@@ -101,6 +102,7 @@ datasecurity.htcsense.com
 deny-netfilter.uds-dev.lenovo.com
 devblogs.microsoft.com
 developer.microsoft.com
+discovery3.razerapi.com
 discovery.razerapi.com
 discovery-sophie-pro.razerapi.com
 distribution.qatp1.net
@@ -232,6 +234,7 @@ luci.lenovo.com
 manage.c3edge.com
 manifest3.razerapi.com
 manifest-assets.razerzone.com
+manifest-assets-staging.razerzone.com
 manifest.razerapi.com
 manifest-sophie-pro.razerapi.com
 marketplace-xb.xboxlive.com
@@ -296,6 +299,7 @@ rapture-autopush.corp.google.com
 rapture.corp.google.com
 rapture-prod.corp.google.com
 rapture-test.corp.google.com
+razer-customer-swassets.razerzone.com
 r.cert.corp.google.com
 redirector.c.docs.google.com
 redirector.c.drive.google.com
@@ -359,12 +363,14 @@ streaming.vn.teslamotors.com
 sup.corp.google.com
 sup.l.google.com
 support.1ucrs.com
+support.amd.com
 supportcenter.corp.google.com
 support.lenovo.com
 sup-ssh-relay2.corp.google.com
 sup-ssh-relay.corp.google.com
 swupdl.adobe.com
 synapse3ui-common-dev.razerzone.com
+synapse-x-assets-dev.razerzone.com
 tcl.com.ru
 techstop.corp.google.com
 test.bugs-qa.chromium.org
@@ -441,6 +447,7 @@ www.travelzoo.com
 www.tutorabc.com
 www.tzoo-img.com
 www.uz0.xyz
+www.volvocars.com
 xb.dlservice.microsoft.com
 x-dash-public.rec.mp.microsoft.com
 xn--9kr7l.com
