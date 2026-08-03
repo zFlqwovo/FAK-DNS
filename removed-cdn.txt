@@ -5,12 +5,15 @@ account.cdnetworks.com
 account.lenovo.com
 account.samsung.com
 achievements.xboxlive.com
+adam.akamai.com
 adfarm.mediaplex.com
 ad.mediaplex.com
 adminportal.cdnetworks.com
 ai.ytimg.com
 ajax.loli.net
+aloha.akamai.com
 altfarm.mediaplex.com
+aotgo.akamai.com
 api.lenovo.com
 api-p-ap-c.smoot.apple.com
 api-p-ap-d.smoot.apple.com
@@ -29,13 +32,16 @@ assets.uxengine.net
 assets.volvocars.com
 asset-us-store.msi.com
 asset-vendor-event.msi.com
+audiobridge.akamai.com
 avatarread-ssl.xboxlive.com
 avatarread.xboxlive.com
 avatar-ssl.xboxlive.com
 avatar.xboxlive.com
 axon.razerzone.com
 bg4.v4.a.dl.ws.microsoft.com
+bgp.deploy.akamai.com
 bg.v4.a.dl.ws.microsoft.com
+blog.htc.com
 blog.tutorabc.com
 borgmon.adz.google.com
 bpsso.lenovo.com
@@ -49,6 +55,7 @@ cdn.jsdelivr.net
 cdnjs.loli.net
 cdn.loli.net
 cdn.marketplaceimages.windowsphone.com
+cdn-static.farfetch-contents.com
 chinacache.cedexis.com
 china-cdn2.unityads.unity3d.com
 china-cdn3.unityads.unity3d.com
@@ -73,7 +80,9 @@ cn.img.stb.s-msn.com
 cn.msi.com
 cn.online.standardchartered.com
 cn.pandora.net
+cn.razerzone.com
 cnupgrade.microsoft.com
+collaborate.akamai.com
 comments.xboxlive.com
 compass-ssl.xbox.com
 compass-ssl.xboxlive.com
@@ -98,7 +107,11 @@ c.s-microsoft.com
 csp.lenovo.com
 cubemail.lenovo.com
 dam-storage.msi.com
+dashboard.deploy.akamai.com
 datasecurity.htcsense.com
+dcmap2.deploy.akamai.com
+dcmap.deploy.akamai.com
+decon.deploy.akamai.com
 deny-netfilter.uds-dev.lenovo.com
 devblogs.microsoft.com
 developer.microsoft.com
@@ -128,6 +141,7 @@ download.qcpp1.net
 download.qpdp1.net
 download-ssl.xbox.com
 download.xboxlive.com
+dp.deploy.akamai.com
 dp.image-gmkt.com
 dragon-download.msi.com
 e.admob.com
@@ -153,6 +167,7 @@ fs.microsoft.com
 g3doc.corp.google.com
 gameplay.intel.com
 gateway.craft.moe
+gator.deploy.akamai.com
 gdssl.image-gmkt.com
 g-ec4.images-amazon.com
 geo-prism-cn.htcsense.com
@@ -170,8 +185,10 @@ gsp4-cn.ls.apple.com.edgekey.net
 gspe21.ls.apple.com
 gstatic.loli.net
 gs.ww.np.dl.playstation.net
+hardware.deploy.akamai.com
 hcs.globalsign.com
 hdn.xnimg.cn.cdngc.net
+he.deploy.akamai.com
 holoway.lenovo.com
 holowaytest.lenovo.com
 home-cn.htcsense.com
@@ -230,7 +247,10 @@ lnkd.licdn.com
 logger.corp.google.com
 logger-dev.corp.google.com
 login.corp.google.com
+logistics.deploy.akamai.com
 luci.lenovo.com
+macosx-aam.upgrade.akamai.com
+mailinglists.akamai.com
 manage.c3edge.com
 manifest3.razerapi.com
 manifest-assets.razerzone.com
@@ -248,6 +268,7 @@ mini5cn-1.opera-mini.net
 mini5cn.opera-mini.net
 mktplassets-ssl.xbox.com
 mobileapp-assets-dev.razerzone.com
+momentum.akamai.com
 monitoring.qatp1.net
 monitoring.qcpp1.net
 monitoring.qpdp1.net
@@ -257,6 +278,7 @@ msg.xboxlive.com
 msproductuat.download.prss.microsoft.com
 m.travelzoo.com
 myvsuat.download.prss.microsoft.com
+network.deploy.akamai.com
 nexus.dell.com
 ngportal.cdnetworks.com
 nxeassets.xbox.com
@@ -329,6 +351,7 @@ settings.xn--9trs65b.com
 shell.cdn.office.net
 shop.samsung.com
 si.cdn.dell.com
+siebel.akamai.com
 silverlight.dlservice.microsoft.com
 sim.lenovo.com
 sina.com.hk
@@ -360,6 +383,7 @@ store.samsung.com
 streaming-uberproxy.corp.google.com
 streaming-uberproxy-rotation.corp.google.com
 streaming.vn.teslamotors.com
+stsproxy.lenovo.com
 sup.corp.google.com
 sup.l.google.com
 support.1ucrs.com
@@ -379,6 +403,7 @@ thinkcloud.lenovo.com
 tiles.xbox.com
 titlestorage.xboxlive.com
 toolbarqueries.google.com
+tools.deploy.akamai.com
 tools.l.google.com
 topics-cdn.dell.com
 translate.googleapis.com
@@ -409,6 +434,10 @@ waf.cdnetworks.com
 web-service.halo.xbox.com
 web-service-ssl.halo.xbox.com
 webview.unityads.unity3d.com
+whohas.deploy.akamai.com
+whois.deploy.akamai.com
+wiki.network.akamai.com
+wizards.akamai.com
 wl.dlservice.microsoft.com
 wmota.htcsense.com
 wscont1.apps.microsoft.com
@@ -435,6 +464,8 @@ www.intel.com
 www.kaspersky.com
 www.laecloud.com
 www.microsoft.com
+www.nike.com
+www.nocc.akamai.com
 www.nvidia.com
 www.pandora.net
 www.parallels.com
