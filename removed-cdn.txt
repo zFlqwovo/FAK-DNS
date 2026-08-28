@@ -27,6 +27,7 @@ asset-account.msi.com
 asset.msi.com
 assets.adobedtm.com
 assets.analog.com
+assets-global.viveport.com
 assets-ssl.xbox.com
 assets.uxengine.net
 assets.volvocars.com
@@ -82,6 +83,7 @@ cn.online.standardchartered.com
 cn.pandora.net
 cn.razerzone.com
 cnupgrade.microsoft.com
+cn.windowssearch.com
 collaborate.akamai.com
 comments.xboxlive.com
 compass-ssl.xbox.com
@@ -181,6 +183,7 @@ gorom.corp.google.com
 goto.corp.google.com
 goto.google.com
 gravatar.loli.net
+gs2-geo.psn.akadns99.net
 gsp4-cn.ls.apple.com.edgekey.net
 gspe21.ls.apple.com
 gstatic.loli.net
@@ -205,6 +208,7 @@ images-cn-8.ssl-images-amazon.com
 images-cn.ssl-images-amazon.com
 images-eds-ssl.xboxlive.com
 images.nvidia.com
+images.samsung.com
 image.xboxlive.com
 img1.wsimg.com
 img2.wsimg.com
@@ -216,6 +220,7 @@ img.mediaplex.com
 international.download.nvidia.com
 international-gfe.download.nvidia.com
 international-gfe.nvidia.com
+issues.deploy.akamai.com
 kh.google.com
 khm0.googleapis.com
 khm0.google.com
@@ -329,6 +334,7 @@ regioninfo-pa.googleapis.com
 reserve-prime.apple.com
 res.office365.com
 res.outlook.com
+rtc.smartedu.lenovo.com
 rum8.perf.linkedin.com
 s1.mzstatic.com
 s2.mzstatic.com
@@ -430,7 +436,9 @@ verdaccio.cnno1.uds-qa.lenovo.com
 vext.corp.google.com
 virtual.lenovo.com
 visualstudio.download.prss.microsoft.com
+vrbi.viveport.com
 waf.cdnetworks.com
+webmail.akamai.com
 web-service.halo.xbox.com
 web-service-ssl.halo.xbox.com
 webview.unityads.unity3d.com
@@ -478,6 +486,7 @@ www.travelzoo.com
 www.tutorabc.com
 www.tzoo-img.com
 www.uz0.xyz
+www.viveport.com
 www.volvocars.com
 xb.dlservice.microsoft.com
 x-dash-public.rec.mp.microsoft.com
