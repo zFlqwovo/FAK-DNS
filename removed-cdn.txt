@@ -234,6 +234,7 @@ khmdb.googleapis.com
 khmdb.google.com
 khm.googleapis.com
 khm.google.com
+kssip.msi.com
 kt.lenovo.com
 l2-uberproxy.corp.google.com
 lcp.gtm.lenovo.com
@@ -366,6 +367,7 @@ single-test-3.cert-test.akamai.com
 siportal.cdnetworks.com
 slupdate.dlservice.microsoft.com
 smartsupport.lenovo.com
+source.tutorabc.com
 speedtest.xboxlive.com
 ssh-relay.corp.google.com
 sslredirect.corp.google.com
@@ -456,6 +458,7 @@ www8.hp.com
 www.adobe.com
 www.agoda.com
 www.akamai.com
+www.amd.com
 www.analog.com
 www-api.ibm.com
 www.apple.com.edgekey.net
